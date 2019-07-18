@@ -1,7 +1,7 @@
 ```
 There are differences among countries, too.
 There will be job gains, too.
-## Notes:分别用于两段句首，阐述两个不同方面的影响
+ ##  Notes:分别用于两段句首，阐述两个不同方面的影响
  However, something could account for 28 percent of jobs lost by women, compared with 16 percent of jobs lost by men.
 Notes:两组数据对比时，用于举例时对比说明事物现象
 Waves of technological innovation (not only) displace or change the nature of many occupations, (but also) create entirely new ones.
